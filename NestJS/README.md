@@ -1,5 +1,7 @@
 # NestJS
 
+NestJS에 기본 라이브러리를 추가한 템플릿입니다.
+
 ## Installed
 
 - [helmet](https://docs.nestjs.com/security/helmet)  
