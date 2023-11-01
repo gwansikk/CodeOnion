@@ -1,5 +1,5 @@
 {
-  "name": "gd-api-demo",
+  "name": "server",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -21,16 +21,21 @@
   },
   "dependencies": {
     "@nestjs/common": "^9.0.0",
-    "@nestjs/config": "^2.3.1",
+    "@nestjs/config": "^3.1.1",
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
-    "@nestjs/swagger": "^6.3.0",
+    "@nestjs/serve-static": "^4.0.0",
+    "@nestjs/swagger": "^7.1.13",
+    "@nestjs/typeorm": "^10.0.0",
     "class-transformer": "^0.5.1",
     "class-validator": "^0.14.0",
     "express-basic-auth": "^1.2.1",
-    "helmet": "^6.1.5",
+    "helmet": "^7.0.0",
+    "mysql2": "^3.6.2",
+    "pg": "^8.11.3",
     "reflect-metadata": "^0.1.13",
-    "rxjs": "^7.2.0"
+    "rxjs": "^7.2.0",
+    "typeorm": "^0.3.17"
   },
   "devDependencies": {
     "@nestjs/cli": "^9.0.0",

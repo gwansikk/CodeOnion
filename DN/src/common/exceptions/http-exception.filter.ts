@@ -14,7 +14,6 @@ export class HttpExceptionFilter implements ExceptionFilter {
     const request = ctx.getRequest<Request>();
     const status = exception.getStatus();
 
-    // 에러 코드가 한줄, 두줄 이상 분기
     const error = exception.getResponse() as
       | string
       | { error: string; statusCode: number; message: string | string[] };
