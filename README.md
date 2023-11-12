@@ -17,3 +17,7 @@ Vite, React, TailwindCSS
 ### VRT2
 
 TypeScript, Vite, React, TailwindCSS
+
+## README
+
+GitHub의 readme.md 파일을 작성할 때 사용할 수 있는 템플릿입니다.
