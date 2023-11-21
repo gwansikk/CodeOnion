@@ -29,11 +29,10 @@
 
 </div>
 
-해당 부분은 조직 소개 페이지를 통해서 넘어오지 않고, 처으로 해당 페이지를 방문 할때 어떤 프로젝트인지 이해할 수 있도록 간단하게 작성합니다.
+해당 부분은 조직 소개 페이지를 통해서 넘어오지 않고, 처음으로 해당 페이지를 방문 할때 어떤 프로젝트인지 이해할 수 있도록 간단하게 작성합니다.
 
 - 해당 레포지토리에서 상위 목표를 위해 진행되는 작업 특징을 적습니다.
 - 예를 들어 프론트엔드 레포지토리일 경우, 프론트에서만 보여줄 수 있는 특징을 적습니다.
-- 주요 특징 3~4개 좋습니다.
 
 ## Installation
 
@@ -43,7 +42,7 @@
 <link href="cdn" rel="stylesheet" />
 ```
 
-- 실행할 때 필요한 환경변수 세팅도 좋습니다.
+- 실행할 때 필요한 환경변수 설명합니다.
 
 ```text
 mode=product
@@ -55,11 +54,11 @@ api=key
 
 | <img src="https://placekitten.com/300/600"  /> | <img src="https://placekitten.com/300/600"  /> | <img src="https://placekitten.com/300/600"  /> |
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-|                      기능                      |                      기능                      |                      기능                      |
+|                     기능1                      |                     기능2                      |                     기능3                      |
 
 | <img src="https://placekitten.com/300/600"  /> | <img src="https://placekitten.com/300/600"  /> | <img src="https://placekitten.com/300/600"  /> |
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-|                      기능                      |                      기능                      |                      기능                      |
+|                     기능4                      |                     기능5                      |                     기능6                      |
 
 ## Architecture
 
@@ -67,9 +66,15 @@ api=key
 
 해당 프로젝트에 관련이 있는 아키텍쳐를 설명합니다. 사진만 있을 경우 어떤 의도로 만들어졌는지 바로 알기 어려우므로 설명을 추가합니다.
 
+## Database ERD
+
+![erd_example](https://placekitten.com/800/600)
+
+데이터베이스의 특이한 점이 있다면 설명을 추가합니다.
+
 ## Skills
 
-| 분야             | 스킬                                                                                                                                                                                                                 |
+| 구분             | 스킬                                                                                                                                                                                                                 |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Core             | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) |
 | State Management | ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)                                                                                                                  |
