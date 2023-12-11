@@ -11,7 +11,7 @@
 
 ## Example
 
-![Banner](https://placekitten.com/830/200)
+![Banner](https://placekitten.com/1012/200)
 
 해당 Example은 기존 많은 Readme에서 사용되는 예시로, 효율적으로 전달 및 간편하게 작성하고자 템플릿을 만들게 되었습니다.
 
@@ -30,7 +30,8 @@
 
 <div align="center">
 
-![상장](https://placekitten.com/200/300)  
+![상장](https://placekitten.com/200/300)
+
 제10회 소프트웨어 해커톤 - 소프트웨어 해커톤 협회장상 최우수 (2023.01.01)
 
 </div>

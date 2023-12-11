@@ -1,6 +1,6 @@
 # Documentation Readme Template
 
-![Banner](https://placekitten.com/830/200)
+![Banner](https://placekitten.com/1012/200)
 
 ## 목차
 
