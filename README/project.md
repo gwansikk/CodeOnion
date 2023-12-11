@@ -84,7 +84,7 @@ api=key
 | Test             | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)                                                                                                                    |
 | CI&CD            | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)                                                                                                           |
 
-## Commit Message Convention
+## Commit Convention
 
 | 제목     | 내용                                                                             |
 | -------- | -------------------------------------------------------------------------------- |
@@ -110,5 +110,5 @@ api=key
 
 ## ETC
 
-- [blog](https://github.com/gwansikk) - 기술 블로그
-- [example-server](https://github.com/gwansikk) - 서버&인프라
+- [기술 블로그](https://github.com/gwansikk)
+- [example-server](https://github.com/gwansikk) - 서버 살펴보기
