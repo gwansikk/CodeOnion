@@ -22,9 +22,9 @@
 **해당 README는 예제입니다, 캐치프레이즈를 작성해주세요.**
 
 [🏠 팀에 대해](https://github.com/gwansikk)
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+&nbsp;&nbsp;•&nbsp;&nbsp;
 [📄 기획서 보기](https://github.com/gwansikk)
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+&nbsp;&nbsp;•&nbsp;&nbsp;
 [🖥️ 서비스 바로가기](https://github.com/gwansikk)
 
 </div>
@@ -34,41 +34,25 @@
 - 해당 레포지토리에서 상위 목표를 위해 진행되는 작업 특징을 적습니다.
 - 예를 들어 프론트엔드 레포지토리일 경우, 프론트에서만 보여줄 수 있는 특징을 적습니다.
 
-## Installation
-
-- 해당 프로젝트를 제3자가 실행 할 수 있는 방법을 설명합니다.
-
-```html
-<link href="cdn" rel="stylesheet" />
-```
-
-- 실행할 때 필요한 환경변수 설명합니다.
-
-```text
-mode=product
-port=port
-api=key
-```
-
 ## Features
 
-| <img src="https://placekitten.com/300/600"  /> | <img src="https://placekitten.com/300/600"  /> | <img src="https://placekitten.com/300/600"  /> |
+| <img src="https://placekitten.com/310/552"  /> | <img src="https://placekitten.com/310/552"  /> | <img src="https://placekitten.com/310/552"  /> |
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
 |                     기능1                      |                     기능2                      |                     기능3                      |
 
-| <img src="https://placekitten.com/300/600"  /> | <img src="https://placekitten.com/300/600"  /> | <img src="https://placekitten.com/300/600"  /> |
+| <img src="https://placekitten.com/310/552"  /> | <img src="https://placekitten.com/310/552"  /> | <img src="https://placekitten.com/310/552"  /> |
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
 |                     기능4                      |                     기능5                      |                     기능6                      |
 
 ## Architecture
 
-![architecture_example](https://placekitten.com/800/600)
+![architecture_example](https://placekitten.com/1012/569)
 
 해당 프로젝트에 관련이 있는 아키텍쳐를 설명합니다. 사진만 있을 경우 어떤 의도로 만들어졌는지 바로 알기 어려우므로 설명을 추가합니다.
 
 ## Database ERD
 
-![erd_example](https://placekitten.com/800/600)
+![erd_example](https://placekitten.com/1012/569)
 
 데이터베이스의 특이한 점이 있다면 설명을 추가합니다.
 
@@ -82,7 +66,7 @@ api=key
 | Styling          | ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)                                                                                |
 | Package Manager  | ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)                                                                                                                        |
 | Test             | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)                                                                                                                    |
-| CI&CD            | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)                                                                                                           |
+| CI&CD            | ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)                                                                                                           |
 
 ## Commit Convention
 
@@ -93,15 +77,19 @@ api=key
 | style    | 기능에 영향을 주지 않는 커밋, 코드 순서, css등의 포맷에 관한 커밋                |
 | fix      | 버그를 고친 경우                                                                 |
 | refactor | 코드 리팩토링                                                                    |
-| docs     | 문서를 수정한 경우, 파일 삭제, 파일명 수정 등 ex) README.md                      |
+| docs     | 문서를 수정한 경우, 파일 삭제, 파일명 수정 등                                    |
 | chore    | 빌드 테스트 업데이트, 패키지 매니저를 설정하는 경우, 주석 추가, 자잘한 문서 수정 |
 
 ## Members
 
-| <img src="https://placekitten.com/96/96" width="96" /> | <img src="https://placekitten.com/96/96" width="96" /> | <img src="https://placekitten.com/96/96" width="96" /> | <img src="https://placekitten.com/96/96" width="96" /> |
-| :----------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
-|          [Cat1](https://github.com/gwansikk)           |          [Cat2](https://github.com/gwansikk)           |          [Cat3](https://github.com/gwansikk)           |          [Cat4](https://github.com/gwansikk)           |
-|                         `Back`                         |                         `Back`                         |                          `AI`                          |                        `Front`                         |
+| <img src="https://placekitten.com/128/128" width="128" /> | <img src="https://placekitten.com/128/128" width="128" /> | <img src="https://placekitten.com/128/128" width="128" /> | <img src="https://placekitten.com/128/128" width="128" /> | <img src="https://placekitten.com/128/128" width="128" /> | <img src="https://placekitten.com/128/128" width="128" /> |
+| :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+|            [Cat1](https://github.com/gwansikk)            |            [Cat2](https://github.com/gwansikk)            |            [Cat3](https://github.com/gwansikk)            |            [Cat4](https://github.com/gwansikk)            |            [Cat5](https://github.com/gwansikk)            |            [Cat6](https://github.com/gwansikk)            |
+|                           `PM`                            |                          `Front`                          |                         `Server`                          |                           `AI`                            |                         `Devops`                          |                          `Infra`                          |
+
+## Awards
+
+![Banner](https://placekitten.com/200/280)
 
 ## License
 
@@ -111,4 +99,4 @@ api=key
 ## ETC
 
 - [기술 블로그](https://github.com/gwansikk)
-- [example-server](https://github.com/gwansikk) - 서버 살펴보기
+- [서버 살펴보기](https://github.com/gwansikk)
