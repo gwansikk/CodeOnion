@@ -26,15 +26,11 @@
 - [front](Front) - 웹 사이트
 - [server](server) - 서버 및 인프라
 
-## Achievements
+## Awards
 
-<div align="center">
-
-![상장](https://placekitten.com/200/300)
-
-제10회 소프트웨어 해커톤 - 소프트웨어 해커톤 협회장상 최우수 (2023.01.01)
-
-</div>
+| ![Banner](https://placekitten.com/200/280) |
+| :----------------------------------------: |
+|              Template Awards               |
 
 ## References
 

@@ -37,13 +37,13 @@
 
 ![architecture_example](https://placekitten.com/1012/569)
 
-해당 프로젝트에 관련이 있는 아키텍쳐를 설명합니다. 사진만 있을 경우 어떤 의도로 만들어졌는지 바로 알기 어려우므로 설명을 추가합니다.
+    해당 프로젝트에 관련이 있는 아키텍쳐를 설명합니다. 사진만 있을 경우 어떤 의도로 만들어졌는지 바로 알기 어려우므로 설명을 추가합니다.
 
 ## Database ERD
 
 ![erd_example](https://placekitten.com/1012/569)
 
-데이터베이스의 특이한 점이 있다면 설명을 추가합니다.
+    데이터베이스의 특이한 점이 있다면 설명을 추가합니다.
 
 ## Skills
 
@@ -78,7 +78,9 @@
 
 ## Awards
 
-![Banner](https://placekitten.com/200/280)
+| ![Banner](https://placekitten.com/200/280) |
+| :----------------------------------------: |
+|              Template Awards               |
 
 ## Roadmap
 
