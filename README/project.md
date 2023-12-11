@@ -1,19 +1,8 @@
-# Project Readme Template
-
-깃허브(GitHub)의 프로젝트(Project)를 소개하는 README 템플릿입니다.
-
-- 프로젝트 파트의 소개와 특징을 소개합니다.
-- 설치 방법, 특징, 아키텍쳐, 기술스택, 구성원 등을 소개합니다.
-- 프로젝트의 결과 화면이 있다면 첨부합니다.
-- 기타, 관련된 페이지를 첨부합니다.
-
-\*아래는 예시로 작성된 것입니다.
-
-## Example
+## Project Readme Template
 
 <div align="center">
 
-![Banner](https://placekitten.com/830/200)
+![Banner](https://placekitten.com/1012/200)
 
 ![Build](https://img.shields.io/badge/build-1.0.0-brightgreen?logo=github)
 ![Build](https://img.shields.io/badge/test-passing-brightgreen?logo=github)
@@ -82,7 +71,7 @@
 
 ## Members
 
-| <img src="https://placekitten.com/128/128" width="128" /> | <img src="https://placekitten.com/128/128" width="128" /> | <img src="https://placekitten.com/128/128" width="128" /> | <img src="https://placekitten.com/128/128" width="128" /> | <img src="https://placekitten.com/128/128" width="128" /> | <img src="https://placekitten.com/128/128" width="128" /> |
+| <img src="https://placekitten.com/200/200" width="128" /> | <img src="https://placekitten.com/200/200" width="128" /> | <img src="https://placekitten.com/200/200" width="128" /> | <img src="https://placekitten.com/200/200" width="128" /> | <img src="https://placekitten.com/200/200" width="128" /> | <img src="https://placekitten.com/200/200" width="128" /> |
 | :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: |
 |            [Cat1](https://github.com/gwansikk)            |            [Cat2](https://github.com/gwansikk)            |            [Cat3](https://github.com/gwansikk)            |            [Cat4](https://github.com/gwansikk)            |            [Cat5](https://github.com/gwansikk)            |            [Cat6](https://github.com/gwansikk)            |
 |                           `PM`                            |                          `Front`                          |                         `Server`                          |                           `AI`                            |                         `Devops`                          |                          `Infra`                          |
@@ -90,6 +79,18 @@
 ## Awards
 
 ![Banner](https://placekitten.com/200/280)
+
+## Roadmap
+
+- Development (23.12.01 ~ 23.12.31)
+  - [x] feature1
+  - [x] feature2
+- Release (23.01.01 ~ 23.01.31)
+  - [ ] feature3
+  - [ ] feature4
+- Refactoring (23.02.01 ~ 23.02.28)
+  - [ ] feature5
+  - [ ] feature6
 
 ## License
 
