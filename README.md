@@ -1,6 +1,10 @@
-<h1 align="center">CodeOnion</h1>
+<div align="center">
 
-<p align="center">빠른 생산성을 위해 기본적인 환경과 유용한 플러그인을 설정한 개발환경 템플릿입니다.</p>
+<image width="128" src="https://github.com/gwansikk/CodeOnion/assets/39869096/039f31f9-c12c-4a13-bd9b-3797b31bd832" />
+<h1 >CodeOnion</h1>
+<p >빠른 생산성을 위해 기본적인 환경과 유용한 플러그인을 설정한 개발환경 템플릿입니다.</p>
+
+</div>
 
 - 빠른 생산성을 위해 캡슐화된 코드를 제공합니다.
 - 새로운 프로젝트의 초기설정에 드는 비용을 줄일 수 있습니다.
