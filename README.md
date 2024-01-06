@@ -1,18 +1,22 @@
 <div align="center">
 
 <h1>🧅 CodeOnion</h1>
-<p>반복적인 코드 작성을 줄이고, 품질 좋은 코드를 빠르게 사용할 수 있도록 도와줍니다.</p>
+<p>Minimizes repetitive coding and enables rapid use of high-quality code.</p>
+
+[🇺🇸 English](./README.md)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[🇰🇷 한국어](./README-ko_kr.md)
 
 </div>
 
 # Concepts
 
-CodeOnion 프로젝트는 어떻게 하면 반복되는 코드 작업의 번거로움을 해소하고, 초기 코드 작업에 소요되는 시간을 줄일 수 있을까에 대한 고민에서 시작하게 되었습니다. 해당 라이브러리는 코드를 기능 단위 혹은 최소한의 단위를 Atomic하게 캡슐화하여 저장하여, CLI(Command Line Interface)를 통해 사용자가 필요로 하는 코드를 신속하고 간편하게 생성할 수 있도록 기획했습니다. 또한, 오픈소스 운영으로 통한 커뮤니티의 기여를 통해 지속적으로 코드의 품질을 개선하고, 라이브러리가 발전 될 수 있도록 하고자 합니다.
+The CodeOnion project started with the idea of how to alleviate the hassle of repetitive coding tasks and reduce the time spent on initial code work. This library encapsulates code in functionally atomic units or at least minimal units, storing them for quick and easy generation by the user through the CLI (Command Line Interface). Furthermore, it is planned with the intention of continuously improving the quality of the code and developing the library through open-source operations and community contributions.
 
-- **반복적인 코드 작업 최소화**: 개발자들이 자주 마주치는 반복적인 작업을 줄여줌으로써, 시간과 노력을 절약할 수 있습니다.
-- **Atomic한 코드 캡슐화**: 각 기능별로 분리된 코드를 효율적으로 관리하고, 필요한 기능만을 선택하여 빠르게 적용할 수 있습니다.
-- **초기 프로젝트 설정 비용 절감**: 새로운 프로젝트를 시작할 때 필요한 기본적인 설정을 빠르게 구성할 수 있어, 프로젝트 초기단계에서의 시간 및 자원의 낭비를 줄일 수 있습니다.
-- **오픈소스를 통한 지속적인 개선**: 오픈소스 커뮤니티의 다양한 기여를 통해 코드의 품질과 효율성이 지속적으로 개선될 수 있습니다.
+- **Minimize Repetitive Code Tasks**: Reduces repetitive tasks that developers often encounter, saving time and effort.
+- **Atomic Code Encapsulation**: Efficiently manages code separated by each function, allowing for quick and selective application of the needed features.
+- **Reduce Initial Project Setup Costs**: Quickly configures the basic settings needed when starting a new project, reducing waste of time and resources in the early stages of the project.
+- **Continuous Improvement through Open Source**: The quality and efficiency of the code can be continuously improved through diverse contributions from the open-source community.
 
 # Installation
 
