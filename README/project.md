@@ -76,12 +76,6 @@
 |            [Cat1](https://github.com/gwansikk)            |            [Cat2](https://github.com/gwansikk)            |            [Cat3](https://github.com/gwansikk)            |            [Cat4](https://github.com/gwansikk)            |            [Cat5](https://github.com/gwansikk)            |            [Cat6](https://github.com/gwansikk)            |
 |                           `PM`                            |                          `Front`                          |                         `Server`                          |                           `AI`                            |                         `Devops`                          |                          `Infra`                          |
 
-## Awards
-
-| ![Banner](https://placekitten.com/200/280) |
-| :----------------------------------------: |
-|              Template Awards               |
-
 ## Roadmap
 
 - Development (23.12.01 ~ 23.12.31)
@@ -91,8 +85,15 @@
   - [ ] feature3
   - [ ] feature4
 - Refactoring (23.02.01 ~ 23.02.28)
+
   - [ ] feature5
   - [ ] feature6
+
+## Awards
+
+| ![awards](https://placekitten.com/200/280) |
+| :----------------------------------------: |
+|              Template Awards               |
 
 ## License
 

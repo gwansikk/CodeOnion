@@ -17,7 +17,7 @@
 
 ## Awards
 
-| ![Banner](https://placekitten.com/200/280) |
+| ![awards](https://placekitten.com/200/280) |
 | :----------------------------------------: |
 |              Template Awards               |
 
