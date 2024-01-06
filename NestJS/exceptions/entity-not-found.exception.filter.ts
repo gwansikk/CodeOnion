@@ -1,10 +1,7 @@
-import { Catch, ExceptionFilter, ArgumentsHost } from '@nestjs/common';
-import { EntityNotFoundError } from 'typeorm/error/EntityNotFoundError';
-import { Response } from 'express';
+import { Catch, ExceptionFilter, ArgumentsHost } from "@nestjs/common";
+import { EntityNotFoundError } from "typeorm/error/EntityNotFoundError";
+import { Response } from "express";
 
-/**
- * findOneOrFail 등 typeORM에서 NotFundError가 발생 시 해당 필터를 통해서 에러를 표시합니다.
- */
 @Catch(EntityNotFoundError)
 export class EntityNotFoundExceptionFilter implements ExceptionFilter {
   public catch(exception: EntityNotFoundError, host: ArgumentsHost) {
