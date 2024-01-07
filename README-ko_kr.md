@@ -1,15 +1,13 @@
 <div align="center">
 
 <h1>🧅 CodeOnion</h1>
-<p>반복적인 코드 작성을 줄이고, 품질 좋은 코드를 빠르게 사용할 수 있도록 도와줍니다.</p>
+<p><b>반복적인 코드 작성을 줄이고, 품질 좋은 코드를 빠르게 사용할 수 있도록 도와줍니다.</b></p>
 
-[🇺🇸 English](./README.md)
+[English](./README.md)
 &nbsp;&nbsp;•&nbsp;&nbsp;
-[🇰🇷 한국어](./README-ko_kr.md)
+[한국어](./README-ko_kr.md)
 
 </div>
-
-## Concepts
 
 CodeOnion 프로젝트는 어떻게 하면 반복되는 코드 작업의 번거로움을 해소하고, 초기 코드 작업에 소요되는 시간을 줄일 수 있을까에 대한 고민에서 시작하게 되었습니다. 해당 라이브러리는 코드를 기능 단위 혹은 최소한의 단위를 Atomic하게 캡슐화하여 저장하여, CLI(Command Line Interface)를 통해 사용자가 필요로 하는 코드를 신속하고 간편하게 생성할 수 있도록 기획했습니다. 또한, 오픈소스 운영으로 통한 커뮤니티의 기여를 통해 지속적으로 코드의 품질을 개선하고, 라이브러리가 발전 될 수 있도록 하고자 합니다.
 
@@ -22,7 +20,7 @@ CodeOnion 프로젝트는 어떻게 하면 반복되는 코드 작업의 번거�
 
 ## Usage
 
-## Contribute
+## Contributing
 
 해당 프로젝트에 기여하고 싶다면 아래 문서를 참고해주세요.  
 [CONTRIBUTING.md](./CONTRIBUTING.md)

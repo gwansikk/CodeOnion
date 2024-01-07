@@ -1,15 +1,13 @@
 <div align="center">
 
 <h1>🧅 CodeOnion</h1>
-<p>Minimizes repetitive coding and enables rapid use of high-quality code.</p>
+<p><b>Minimizes repetitive coding and enables rapid use of high-quality code.</b></p>
 
-[🇺🇸 English](./README.md)
+[English](./README.md)
 &nbsp;&nbsp;•&nbsp;&nbsp;
-[🇰🇷 한국어](./README-ko_kr.md)
+[한국어](./README-ko_kr.md)
 
 </div>
-
-## Concepts
 
 The CodeOnion project started with the idea of how to alleviate the hassle of repetitive coding tasks and reduce the time spent on initial code work. This library encapsulates code in functionally atomic units or at least minimal units, storing them for quick and easy generation by the user through the CLI (Command Line Interface). Furthermore, it is planned with the intention of continuously improving the quality of the code and developing the library through open-source operations and community contributions.
 
@@ -22,7 +20,7 @@ The CodeOnion project started with the idea of how to alleviate the hassle of re
 
 ## Usage
 
-## Contribute
+## Contributing
 
 Information describing how to contribute can be found in the file.  
 [CONTRIBUTING.md](./CONTRIBUTING.md)
